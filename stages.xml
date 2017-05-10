@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<flux-stage>
+<stages>
   <stage>
     <id_stage>1</id_stage>
     <Titre>Titre stage 1</Titre>
@@ -22,4 +22,4 @@
   <Methode>Methode stage 2</Methode>
  <Tarifs>tarifs stage 2</Tarifs>
   </stage>
-</flux-stage>
+</stages>

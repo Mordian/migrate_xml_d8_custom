@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <stages>
   <stage>
-    <id_stage>1</id_stage>
+    <id>1</id>
     <Titre>Titre stage 1</Titre>
   <Thematique>Theatique stage 1</Thematique>
   <Objectifs>Objectifs stage 1</Objectifs>
@@ -12,7 +12,7 @@
  <Tarifs>tarifs stage 1</Tarifs>
   </stage>
   <stage>
-    <id_stage>2</id_stage>
+    <id>2</id>
     <Titre>Titre stage 2</Titre>
   <Thematique>Theatique stage 2</Thematique>
   <Objectifs>Objectifs stage 2</Objectifs>
